@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tarasethi
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning about multi-sensory design using an arduino and C programming
-- 📫 Check out my website @ tarasethi.com
+- Hi, I’m @tarasethi
+- I’m interested in product design
+- I’m currently learning about multi-sensory design using an arduino and C programming
+- Check out my website @ tarasethi.com
